@@ -51,7 +51,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/link-me.git
+git clone https://github.com/ranxi2001/link-me.git
 cd link-me
 
 # 安装依赖
@@ -79,7 +79,7 @@ npm run build
 
 ### Vercel（推荐，一键）
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/link-me)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ranxi2001/link-me)
 
 ### GitHub Pages
 
