@@ -1,11 +1,15 @@
-# link-me
+<p align="center">
+  <img src="./docs/banner.png" alt="link-me banner" width="600" />
+</p>
 
-> 一个简洁的个人链接聚合主页，类似 Linktree / vlink.cc，纯静态、免费部署。
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat-square&logo=vuedotjs" alt="Vue 3"/>
+  <img src="https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite" alt="Vite"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/badge/Deploy-GitHub%20Pages%20%7C%20Vercel-black?style=flat-square" alt="Deploy"/>
+</p>
 
-![Vue 3](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat-square&logo=vuedotjs)
-![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages%20%7C%20Vercel-black?style=flat-square)
+<p align="center">一个简洁的个人链接聚合主页，类似 Linktree / vlink.cc，纯静态、免费部署。</p>
 
 ---
 
