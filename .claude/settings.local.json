@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:vlink.cc)",
+      "WebSearch",
+      "WebFetch(domain:help.vlink.cc)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(node *)"
+    ]
+  }
+}
